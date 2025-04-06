@@ -1,3 +1,17 @@
+// https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md#requests
+// https://github.com/obs-websocket-community-projects/obs-websocket-js/
+// https://bun.sh/docs/api/utils
+// https://github.com/obsproject/obs-websocket/blob/master/docs/generated/protocol.md#connection-steps
+// https://raw.githubusercontent.com/obsproject/obs-websocket/master/docs/generated/protocol.json
+// https://github.com/oven-sh/bun/issues/10459#issuecomment-2380724665
+// https://www.jeffgeerling.com/tags/applescript
+// https://tsx.is/vscode
+// https://yargs.js.org/docs/
+// https://github.com/bombshell-dev/clack/tree/main/packages/prompts#readme
+// bunx tsx index.ts
+// Needs Accessibility permission on macOS
+// https://blog.scottlowe.org/2020/11/08/resizing-windows-to-a-specific-size-on-macos/
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
